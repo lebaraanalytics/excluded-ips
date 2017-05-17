@@ -1,6 +1,6 @@
 # excluded-ips
-Global list of all identified and excluded lebara and lebara partner IP addresses
-//Finished
+//Global list of all identified and excluded lebara and lebara partner IP addresses
+
 
 Exclude - IP Address - South Africa
 ^192\.168\.157\.0$
